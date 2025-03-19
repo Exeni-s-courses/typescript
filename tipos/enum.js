@@ -7,5 +7,6 @@
         AudioLevel[AudioLevel["max"] = 2] = "max";
     })(AudioLevel || (AudioLevel = {}));
     let currentAudio = AudioLevel.medium;
+    //   let anotherAudio: AudioLevel = 10;
     console.log(currentAudio);
 })();
