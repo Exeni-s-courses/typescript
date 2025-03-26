@@ -9,5 +9,8 @@
         name: "Clark Kent",
         age: 60,
         powers: ["Súper velocidad", "Súper fuerza"],
+        getName() {
+            return this.name;
+        },
     };
 })();
