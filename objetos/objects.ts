@@ -11,4 +11,6 @@
     powers: ["Súper velocidad", "Súper fuerza"],
   };
 
+  console.log(flash)
+
 })();

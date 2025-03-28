@@ -13,3 +13,4 @@
     console.log({ avengers });
     console.log(typeof (NaN));
 })();
+//# sourceMappingURL=numbers.js.map

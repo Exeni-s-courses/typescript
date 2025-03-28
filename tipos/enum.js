@@ -10,3 +10,4 @@
     //   let anotherAudio: AudioLevel = 10;
     console.log(currentAudio);
 })();
+//# sourceMappingURL=enum.js.map

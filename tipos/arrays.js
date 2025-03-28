@@ -7,3 +7,4 @@
     // numbers.push(true);
     console.log(numbers);
 })();
+//# sourceMappingURL=arrays.js.map

@@ -10,3 +10,4 @@
     console.log(name);
     console.log(nameUpper);
 })();
+//# sourceMappingURL=args-default.js.map
