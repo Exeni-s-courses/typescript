@@ -23,4 +23,11 @@
   };
 
   printAvenger(avengers);
+
+
+//   const avengersArr: string[] = ['Cap. America', 'Iron Man', 'Hulk'];
+  const avengersArr: [string, boolean, number] = ['Cap. America', true, 150];
+
+  const [ capitan, ironman, isNumber] = avengersArr;
+  console.log({ironman})
 })();
