@@ -24,4 +24,10 @@
         console.log(avenger);
     }
 
+    const numero: number = 10;
+    if(true){
+        const numero: number = 10;
+    }
+
+
 })()
