@@ -3,6 +3,7 @@
     name: string;
     age?: number;
     address?: Address;
+    getFullAddress?: (id: string) => void;
   }
 
   interface Address {
@@ -19,6 +20,9 @@
       zip: "0000",
       city: "Otawa",
     },
+    getFullAddress(id: string) {
+        return this.address?.city
+    }
   };
 
   const client2: Client = {
