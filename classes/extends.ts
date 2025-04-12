@@ -32,8 +32,8 @@
   }
 
   const wolverine = new Xmen("Wolverine", "Logan", true);
-  console.log(wolverine);
-  console.log(wolverine.fullName);
-  wolverine.fullName = 'Javier';
-  console.log(wolverine.fullName);
+  // console.log(wolverine);
+  // console.log(wolverine.fullName);
+  // wolverine.fullName = 'Javier';
+  // console.log(wolverine.fullName);
 })();
